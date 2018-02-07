@@ -1,2 +1,0 @@
-# GifTastic
-Gif Checkout
